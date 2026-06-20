@@ -1,0 +1,17 @@
+# SQLite database
+competitors.db
+
+# Python caches
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Editor / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
