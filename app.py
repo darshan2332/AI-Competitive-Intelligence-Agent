@@ -26,8 +26,6 @@ def serve_dashboard():
         competitors_html += f"""
         <div class="competitor-card">
             <div class="competitor-name">🏢 {comp['name']}</div>
-            <a class="competitor-link" href="{comp['pricing_url']}" target="_blank">🔗 Pricing Page</a>
-            <a class="competitor-link" href="{comp['features_url']}" target="_blank">🔗 Features Page</a>
         </div>
         """
 
