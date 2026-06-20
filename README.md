@@ -1,6 +1,16 @@
+---
+title: Competitor Pricing & Feature Tracker
+emoji: 🕵️
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # AI Competitive Intelligence Agent
 
-An agentic system designed to track competitor websites, scrape features and pricing plans, detect adjustments/modifications over time, and log snapshot reports to a local history database. 
+An agentic system designed to track competitor websites, scrape features and pricing plans, detect adjustments/modifications over time, and log snapshot reports to a local history database.
 
 This tool helps businesses automatically monitor changes in their landscape by alerting them to adjustments in plan prices, currencies, and features.
 
